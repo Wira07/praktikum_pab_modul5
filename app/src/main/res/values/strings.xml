@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">praktikum_pab_modul5</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="uniku">Universitas Kuningan (UNIKU) didirikan sebagai perwujudan dari idealisme dan komitmen Yayasan Pendidikan Sang Adipati Kuningan untuk terus menerus berkarya khususnya dalam bidang peningkatan sumber daya manusia menuju peningkatan mutu kehidupan masyarakat pada umumnya.[butuh rujukan]
+
+Gagasan tentang pendirian Universitas di Kuningan sebetulnya telah ada sejak tahun 1979 ketika Yayasan ini didirikan. </string>
+    <string name="fkom">FKOM Universitas Kuningan didirikan sebagai bagian dari upaya untuk memenuhi kebutuhan akan tenaga kerja di bidang komunikasi yang berkualitas pada tahun 2003.
+
+Sejak awal berdirinya, FKOM Universitas Kuningan telah berkomitmen untuk memberikan pendidikan yang berkualitas dan relevan dengan tuntutan pasar kerja di industri komunikasi yang terus berkembang.</string>
+    <string name="program_studi">Program studi Teknik Informatika di Universitas Kuningan dimulai seiring dengan perkembangan teknologi informasi yang pesat pada tahun 2000-an.
+
+Pada awalnya, Teknik Informatika mungkin dimulai sebagai bagian dari fakultas atau program studi yang lebih luas, seperti Teknik Elektro atau Ilmu Komputer.</string>
+</resources>
